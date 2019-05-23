@@ -60,8 +60,15 @@ It carries out detection on the image and write the image with detected bounding
 
 ## Evaluation
 
-
-
 `python evaluate.py -c config.json`
 
 Compute the mAP performance of the model defined in `saved_weights_name` on the validation dataset defined in `valid_image_folder` and `valid_annot_folder`.
+
+## Results
+
+![Image text](https://github.com/Gump-II/UAV_PyTorch_YOLOv3/blob/master/1%20(1).png)
+![Image text](https://github.com/Gump-II/UAV_PyTorch_YOLOv3/blob/master/1%20(2).png)
+![Image text](https://github.com/Gump-II/UAV_PyTorch_YOLOv3/blob/master/1%20(3).png)
+![Image text](https://github.com/Gump-II/UAV_PyTorch_YOLOv3/blob/master/1%20(4).png)
+
+
